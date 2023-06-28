@@ -19,6 +19,10 @@ public interface Ireal_estateRepository extends JpaRepository<Real_estate, Seria
 	
 	public List<Real_estate>findByRealEstateId(Integer id);
 	
+	//consulta donde se muestra todo los datos de las amenidades
+	
+	
+	
 
 
 }
